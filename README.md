@@ -10,6 +10,7 @@ In addition to fostering intellectual growth, the GPT is adept at helping users 
 
 This GPT is versatile and adapts to different levels of expertise, from students to seasoned researchers. It explains technical concepts clearly, making difficult ideas more accessible. At the same time, it engages deeply with advanced research topics for those requiring sophisticated analysis. The GPT’s emphasis on precision and creativity, paired with its commitment to scientific standards, makes it an invaluable resource for anyone looking to enhance their scientific understanding or embark on new research.
 
+#
 ### Helping New Computational Scientific Researchers
 
 Supporting new computational scientific researchers requires a multifaceted approach that focuses on both foundational skills and advanced methodologies. Firstly, it's essential to provide a solid grounding in computational tools and programming languages, such as Python, R, or MATLAB, that are widely used in research. Offering workshops, online courses, and access to educational resources can help researchers become proficient in these tools. Additionally, fostering a community of practice, where experienced researchers mentor newcomers, can accelerate the learning curve by offering practical insights and troubleshooting assistance.
